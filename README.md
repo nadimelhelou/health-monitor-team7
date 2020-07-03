@@ -1,4 +1,4 @@
-# health-monitor-team7
+# Health Monitor ICU
 
 ## Summary
 This project simulates a Health Monitor setup for an ICU.
